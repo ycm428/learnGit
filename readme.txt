@@ -10,3 +10,5 @@ Git tracks changes.
 
 Git tracks changes.
 
+thing to commit, working directory clean
+
